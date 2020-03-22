@@ -1,0 +1,5 @@
+AbAssetsId.txt|119b4573cf8165c767fceac081827c8e|58
+lua.unity3d|4cf606e82e3178ed15e7296b763a9c8c|90269
+prefab.unity3d|02b70d1848f11bb76744d6e74b6e9ab9|6634
+StreamingAssets.unity3d|284771b62bb33cd23f2a8297ffc6dc62|1047
+texture.unity3d|caa015d68f0a94f2d87b051a2da7b49a|5047

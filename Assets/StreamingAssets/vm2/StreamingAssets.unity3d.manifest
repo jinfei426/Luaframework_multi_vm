@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 639139544
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: prefab.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: texture.unity3d
+      Dependencies: {}

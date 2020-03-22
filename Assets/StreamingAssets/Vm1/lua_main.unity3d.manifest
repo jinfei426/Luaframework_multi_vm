@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 392918195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ae1848d6459addd5dd317fe4d8bc813
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua_uni_1584884616196.05/unityengine_layermask.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_vector2.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_url.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_ppc.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_containers.lua.bytes
+- Assets/Lua_uni_1584884616196.05/Main.lua.bytes
+- Assets/Lua_uni_1584884616196.05/cjson_util.lua.bytes
+- Assets/Lua_uni_1584884616196.05/system_coroutine.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_decoder.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_vmdef.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_type_checkers.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_bounds.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_bc.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_x86.lua.bytes
+- Assets/Lua_uni_1584884616196.05/tolua.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_descriptor.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_vector4.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_headers.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_time.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dump.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_arm.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_ftp.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_touch.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_mips64.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_mathf.lua.bytes
+- Assets/Lua_uni_1584884616196.05/list.lua.bytes
+- Assets/Lua_uni_1584884616196.05/typeof.lua.bytes
+- Assets/Lua_uni_1584884616196.05/view_testview1.lua.bytes
+- Assets/Lua_uni_1584884616196.05/mime.lua.bytes
+- Assets/Lua_uni_1584884616196.05/event.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_x64.lua.bytes
+- Assets/Lua_uni_1584884616196.05/misc_utf8.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_mips64el.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_smtp.lua.bytes
+- Assets/Lua_uni_1584884616196.05/misc_strict.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_bcsave.lua.bytes
+- Assets/Lua_uni_1584884616196.05/common_define.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_ray.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_vector3.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_plane.lua.bytes
+- Assets/Lua_uni_1584884616196.05/system_timer.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_arm64.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_listener.lua.bytes
+- Assets/Lua_uni_1584884616196.05/ltn12.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_zone.lua.bytes
+- Assets/Lua_uni_1584884616196.05/misc_functions.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_profiler.lua.bytes
+- Assets/Lua_uni_1584884616196.05/system_valuetype.lua.bytes
+- Assets/Lua_uni_1584884616196.05/slot.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_mips.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_protobuf.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_tp.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_http.lua.bytes
+- Assets/Lua_uni_1584884616196.05/system_reflection_bindingflags.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_p.lua.bytes
+- Assets/Lua_uni_1584884616196.05/misc_misc.lua.bytes
+- Assets/Lua_uni_1584884616196.05/lpeg_re.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_wire_format.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_raycasthit.lua.bytes
+- Assets/Lua_uni_1584884616196.05/socket_mbox.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_quaternion.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_encoder.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_arm64be.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_v.lua.bytes
+- Assets/Lua_uni_1584884616196.05/protobuf_text_format.lua.bytes
+- Assets/Lua_uni_1584884616196.05/unityengine_color.lua.bytes
+- Assets/Lua_uni_1584884616196.05/jit_dis_mipsel.lua.bytes
+Dependencies: []
